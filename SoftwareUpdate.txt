@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Update inference.cpp (bug) (#7279)
